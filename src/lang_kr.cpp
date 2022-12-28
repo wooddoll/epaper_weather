@@ -62,4 +62,4 @@ const char* TXT_NW  = "NW";
 const char* TXT_NNW = "NNW";
 
 //Day of the week
-const char* weekday_D[] = { "일요일", "월요일", "화요일", "수요일", "목요알", "금요일", "토요일" };
+const char* weekday_D[] = { "일요일", "월요일", "화요일", "수요일", "목요일", "금요일", "토요일" };
